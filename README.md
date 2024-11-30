@@ -1,4 +1,3 @@
 # rough
-ji
 
 meow meow
